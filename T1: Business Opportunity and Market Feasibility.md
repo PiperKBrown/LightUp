@@ -2,13 +2,10 @@
 ## LightUp: Business Concept Overview
 The main goal for our company is to specialize in creating a smartphone that is affordable, customizable, and resourceful that you don't have to waste more than a month's salary to afford.
 We are a small online retail company, we want to specifically target teenagers that want a affordable phone, and adults who want a practical and easy to use phone.
-Since we'll only operate through our online store, we won't be competing with major phone brands.
 
 -Team Leader: Mark Lopez (mark19905)
 
-Group Members: Johnathan Corona **(ToxicEagle9271)**
 Piper Brown **(PiperKBrown)**
-Spencer Falter **(TBD)**
 
 - A customer segment we would like to target is teenagers who are on a reduced budget when buying a new smartphone.
 Essentially, we're trying to keep their best interest in mind when developing a phone that is compatible with most software,
